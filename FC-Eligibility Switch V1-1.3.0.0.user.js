@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         FC-Eligibility Switch LEJ1
-// @version      1.3.0.0
+// @version      1.3.1.0
 // @author       cbreite
 // @match        https://fc-eligibility-website-dub.aka.amazon.com/*
 // @grant        none
