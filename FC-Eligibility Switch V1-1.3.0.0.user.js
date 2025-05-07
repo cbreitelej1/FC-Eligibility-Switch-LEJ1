@@ -1,9 +1,11 @@
 // ==UserScript==
-// @name         FC-Eligibility Switch V1
+// @name         FC-Eligibility Switch LEJ1
 // @version      1.3.0.0
-// @author       Falk Bergmann @fbergma LEJ1
+// @author       someone
 // @match        https://fc-eligibility-website-dub.aka.amazon.com/*
 // @grant        none
+// @updateURL    https://github.com/cbreitelej1/FC-Eligibility-Switch-LEJ1/raw/refs/heads/main/FC-Eligibility%20Switch%20V1-1.3.0.0.user.js
+// @downloadURL  https://github.com/cbreitelej1/FC-Eligibility-Switch-LEJ1/raw/refs/heads/main/FC-Eligibility%20Switch%20V1-1.3.0.0.user.js
 // require      http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js
 // https://fc-eligibility-website-dub.aka.amazon.com/#/picker-eligibilities/LEJ1
 // https://fc-eligibility-website-dub.aka.amazon.com/#/cluster-eligibilities/LEJ1
