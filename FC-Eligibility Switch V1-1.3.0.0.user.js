@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         FC-Eligibility Switch LEJ1
 // @version      1.3.0.0
-// @author       someone
+// @author       cbreite
 // @match        https://fc-eligibility-website-dub.aka.amazon.com/*
 // @grant        none
 // @updateURL    https://github.com/cbreitelej1/FC-Eligibility-Switch-LEJ1/raw/refs/heads/main/FC-Eligibility%20Switch%20V1-1.3.0.0.user.js
